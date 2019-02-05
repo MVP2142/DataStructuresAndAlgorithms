@@ -2,7 +2,7 @@ package com.tan.structure.linklist;
 
 import java.util.Stack;
 
-public class SinglyLinkList {
+public class SingleLinkList {
 
     //链表反转
     public static Node reverse(Node list) {
